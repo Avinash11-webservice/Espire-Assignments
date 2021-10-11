@@ -14,7 +14,7 @@ details of the 3 or 4 users who register with the web site 10 (week9)
 by using registration form. Authenticate the user when he submits the login
 form using the user name and password from the database.*/
 final String username="root";
-final String password="root";
+final String password="Bootcamp@1818";
 final String jdbcurl="jdbc:mysql://localhost:3306/jdbcdemo";
 String checkString=request.getParameter("check");
 Connection connection=null;
